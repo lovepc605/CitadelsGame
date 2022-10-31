@@ -1,0 +1,11 @@
+代刚祘Α度祘Α絤策,讽├ぇノ
+
+ㄏノм砃/絤策兜ヘ珹碭翴:
+1.LINQ for collections(.net 3.5)
+2.WPF(.net 3.5)
+3.Voice player(free dll)
+4.UI Flow Control ,Thread control
+5.OOD & patterns
+6.Resource(Pic & Data) Management and Package
+7.Eazfuscator.NET (Freeware)
+8.Easy AI practice

@@ -1,0 +1,8 @@
+1,刺客,White,AtBegining,Assassin_Char,char_01,選擇一個角色並將他殺死，若暗殺成功則該角色此回合無法執行任何動作;
+2,盜賊,White,AtBegining,Thief_Char,char_02,選擇一個角色並且洗劫，輪到這個角色時，拿走他所有的金幣;
+3,魔法師,White,ByWill,Magician_Player,char_03,你可以和任一個玩家交換手牌，或者棄掉一定數量手牌後從牌堆中拿取相同張數;
+4,國王,Yellow,AtBegining,King_None,char_04,輪到你行動時可以獲得皇冠，下回合將從你開始選取角色;
+5,主教,Blue,AtBegining,Bishop_None,char_05,領主無法攻擊/拆除你的建築物;
+6,商人,Green,AtBegining,Merchant_None,char_06,輪到你行動時可額外獲得一枚金幣;
+7,建築師,White,AtBegining,Architect_None,char_07,行動時可以無條件多抽兩張建築卡，且一回合內最多可蓋3個建築;
+8,領主,Red,ByWill,Warlord_Player,char_08,行動時可以任意破壞一個地區，需付出『該建築物的價值-1』$當作拆除費用;

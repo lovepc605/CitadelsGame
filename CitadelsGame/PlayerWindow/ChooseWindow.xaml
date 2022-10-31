@@ -1,0 +1,9 @@
+﻿<Window x:Class="CitadelsGame.ChooseWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="ChooseWindow" Height="354" Width="436" Opacity="0.5" Padding="1" WindowStartupLocation="CenterScreen" WindowStyle="None"
+        Loaded="Window_Loaded" ResizeMode="NoResize">
+    <Grid Name="grid1">
+        
+    </Grid>
+</Window>

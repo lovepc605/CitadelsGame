@@ -1,0 +1,23 @@
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsSystem\bin\CitadelsSystem.dll
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsSystem\bin\CitadelsSystem.pdb
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsSystem\obj\Release\ResolveAssemblyReference.cache
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsSystem\obj\Release\CitadelsSystem.Properties.Resources.resources
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsSystem\obj\Release\CitadelsSystem.csproj.GenerateResource.Cache
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsSystem\obj\Release\CitadelsSystem.dll
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsSystem\obj\Release\CitadelsSystem.pdb
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsSystem\bin\irrKlang.NET2.0.dll
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsSystem\bin\CitadelsSystem.dll
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsSystem\bin\CitadelsSystem.pdb
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsSystem\bin\irrKlang.NET2.0.dll
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsSystem\obj\Release\ResolveAssemblyReference.cache
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsSystem\obj\Release\CitadelsSystem.Properties.Resources.resources
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsSystem\obj\Release\CitadelsSystem.csproj.GenerateResource.Cache
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsSystem\obj\Release\CitadelsSystem.dll
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsSystem\obj\Release\CitadelsSystem.pdb
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsSystem\bin\CitadelsSystem.dll
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsSystem\bin\CitadelsSystem.pdb
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsSystem\obj\Release\CitadelsSystem.Properties.Resources.resources
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsSystem\obj\Release\CitadelsSystem.csproj.GenerateResource.Cache
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsSystem\obj\Release\CitadelsSystem.dll
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsSystem\obj\Release\CitadelsSystem.pdb
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsSystem\bin\irrKlang.NET4.dll

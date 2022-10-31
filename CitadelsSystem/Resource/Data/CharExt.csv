@@ -1,0 +1,10 @@
+9,王后,White,AtBegining,Queen_None,char_09,若坐在國王旁邊可獲得『3枚金幣』，不論國王死活;
+1,女巫,White,AtBegining,Witch_Char,char_10,公布你想要迷惑的角色並結束這回合;
+2,稅務官,White,AtBegining,TaxCollector_None,char_11,若有玩家蓋建築物，他的回合結束時必須給你1枚金幣;
+3,巫師,White,ByWill,Wizard_Player,char_12,觀看一個玩家的手牌並且拿走一張。可底免建築費用或當手牌使用。可蓋重複的建築物;
+4,皇帝,Yellow,AtBegining,Emperor_Player,char_13,可將皇冠卡交給指定玩家;
+5,修道院長,Blue,AtBegining,Abbot_None,char_14,擁有最多金幣的玩家要給你1枚金幣;
+6,煉金術師,White,AtBegining,Alchemist_None,char_15,拿回此回合蓋建築物所花費的金幣;
+7,航海家,White,AtBegining,Navigator_None,char_16,可多拿『4枚金幣』或『4張建築卡』，此回合不能蓋建築物;
+8,外交官,Red,ByWill,Diplomat_Player,char_17,你可以支付差額和一個玩家交換蓋好的建築物;
+9,藝術家,White,ByWill,Artist_None,char_18,可以美化自己的1~2個建築，每個建築只能美化一次(1枚金幣)，可增加該建築物的價值;

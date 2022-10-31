@@ -1,0 +1,7 @@
+ERROR In main program (e:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\MainWindow.xaml.cs:341) - UnHandledException
+System.TypeInitializationException: 'CitadelsSystem.Utils.VoiceHelper' 的類型初始設定式發生例外狀況。 ---> System.BadImageFormatException: 無法載入檔案或組件 'irrKlang.NET4, Version=1.0.5235.17346, Culture=neutral, PublicKeyToken=null' 或其相依性的其中之一。 試圖載入格式錯誤的程式。
+   於 CitadelsSystem.Utils.VoiceHelper..cctor()
+   --- 內部例外狀況堆疊追蹤的結尾 ---
+   於 CitadelsSystem.Utils.VoiceHelper.AllPlayerSound(String name, Int32 time)
+   於 CitadelsSystem.GameSystem.StartNewRound() 於 e:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsSystem\GameSystem.cs: 行 299
+   於 CitadelsGame.MainWindow.PlayingGame() 於 e:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\MainWindow.xaml.cs: 行 341

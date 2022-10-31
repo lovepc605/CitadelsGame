@@ -1,0 +1,13 @@
+﻿<Window x:Class="CitadelsGame.ShowCardWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="ShowCardWindow" Height="310" Width="325" WindowStartupLocation="CenterScreen" WindowStyle="None">
+    <Grid Name="grid1">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="180*" />
+            <ColumnDefinition Width="123*" />
+        </Grid.ColumnDefinitions>
+        <Image Name="imgCard" Stretch="Fill"/>
+        <TextBox Grid.Column="1" Margin="0,0,2,0" Name="txbDoc" TextWrapping="Wrap" />
+    </Grid>
+</Window>

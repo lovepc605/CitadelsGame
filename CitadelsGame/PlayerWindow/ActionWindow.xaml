@@ -1,0 +1,27 @@
+﻿<Window x:Class="CitadelsGame.PlayerWindow.ActionWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="ActionWindow" Height="441" Width="255"
+    WindowStyle="None"
+	AllowsTransparency="True"
+	Background="Transparent" WindowStartupLocation="CenterScreen" Opacity="0.85">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Button Name="btnTakeMoney" Style="{DynamicResource OptionsButton}" HorizontalAlignment="Stretch" Click="btnTakeMoney_Click">TakeMoney</Button>
+        <Button Name="btnTakeCard" Style="{DynamicResource OptionsButton}"  Grid.Column="1" Click="btnTakeCard_Click">TakeCard</Button>
+        <Button Name="btnTax" Style="{DynamicResource OptionsButton}" Grid.Row="1" HorizontalAlignment="Stretch" Click="btnTax_Click">Tax</Button>
+        <Button Name="btnBuild" Style="{DynamicResource OptionsButton}"  Grid.Column="1" Grid.Row="1" Click="btnBuild_Click">Build</Button>
+        <Button Grid.Row="2"  Name="btnPurple" Style="{DynamicResource OptionsButton}" HorizontalAlignment="Stretch" Click="btnPurple_Click" >Purple</Button>
+        <Button Grid.Row="2"   Name="btnCharFunc" Style="{DynamicResource OptionsButton}"  Grid.Column="1" Click="btnbtnCharFunc_Click" >Func</Button>
+        <Button Grid.Row="3"   Name="btnEnd" Style="{DynamicResource OptionsButton}"  Grid.Column="1" Click="btnEnd_Click">End</Button>
+    </Grid>
+</Window>

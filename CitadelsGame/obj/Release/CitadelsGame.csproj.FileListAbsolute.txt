@@ -1,0 +1,133 @@
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\bin\CitadelsGame.exe
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\bin\CitadelsGame.pdb
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\bin\CitadelsSystem.dll
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\bin\CitadelsSystem.pdb
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\ResolveAssemblyReference.cache
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\ShowCardWindow.baml
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\PlayerWindow\ActionWindow.baml
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\PlayerWindow\ChooseWindow.baml
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\PlayerWindow\CardWindow.baml
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\PlayerWindow\CharacterWindow.baml
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\PlayerWindow\TargetWindow.baml
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\PlayerWindow\YesOrNoWindow.baml
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\MainWindow.baml
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\PlayerArea.baml
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\Resources.baml
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\ResultWindow.baml
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\ShowMessageWindow.baml
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\ToolTipWindow.baml
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\App.baml
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\ShowCardWindow.g.cs
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\PlayerWindow\ActionWindow.g.cs
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\PlayerWindow\ChooseWindow.g.cs
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\PlayerWindow\CardWindow.g.cs
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\PlayerWindow\CharacterWindow.g.cs
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\PlayerWindow\TargetWindow.g.cs
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\PlayerWindow\YesOrNoWindow.g.cs
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\MainWindow.g.cs
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\PlayerArea.g.cs
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\ResultWindow.g.cs
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\ShowMessageWindow.g.cs
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\ToolTipWindow.g.cs
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\App.g.cs
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\CitadelsGame_MarkupCompile.cache
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\CitadelsGame.g.resources
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\CitadelsGame.AboutBox.resources
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\CitadelsGame.Properties.Resources.resources
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\CitadelsGame.csproj.GenerateResource.Cache
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\CitadelsGame.exe
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\CitadelsGame.pdb
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\bin\irrKlang.NET2.0.dll
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\StartWindow.baml
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\StartWindow.g.cs
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\bin\log4net.dll
+D:\MyDocument\Code_POLO\SVN\MySVN\CitadelsGame\CitadelsGame\obj\Release\BusyAnimationStyle.baml
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\CitadelsGame.exe
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\CitadelsGame.pdb
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\bin\CitadelsGame.exe
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\bin\CitadelsGame.pdb
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\bin\CitadelsSystem.dll
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\bin\log4net.dll
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\bin\irrKlang.NET2.0.dll
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\bin\CitadelsSystem.pdb
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\ResolveAssemblyReference.cache
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\BusyAnimationStyle.baml
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\ShowCardWindow.baml
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\PlayerWindow\ActionWindow.baml
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\PlayerWindow\ChooseWindow.baml
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\PlayerWindow\CardWindow.baml
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\PlayerWindow\CharacterWindow.baml
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\PlayerWindow\TargetWindow.baml
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\PlayerWindow\YesOrNoWindow.baml
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\MainWindow.baml
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\PlayerArea.baml
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\Resources.baml
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\ResultWindow.baml
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\ShowMessageWindow.baml
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\StartWindow.baml
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\ToolTipWindow.baml
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\App.baml
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\ShowCardWindow.g.cs
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\PlayerWindow\ActionWindow.g.cs
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\PlayerWindow\ChooseWindow.g.cs
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\PlayerWindow\CardWindow.g.cs
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\PlayerWindow\CharacterWindow.g.cs
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\PlayerWindow\TargetWindow.g.cs
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\PlayerWindow\YesOrNoWindow.g.cs
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\MainWindow.g.cs
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\PlayerArea.g.cs
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\ResultWindow.g.cs
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\ShowMessageWindow.g.cs
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\StartWindow.g.cs
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\ToolTipWindow.g.cs
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\App.g.cs
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\CitadelsGame_MarkupCompile.cache
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\CitadelsGame.g.resources
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\CitadelsGame.AboutBox.resources
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\CitadelsGame.Properties.Resources.resources
+D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\CitadelsGame.csproj.GenerateResource.Cache
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\CitadelsGame.exe
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\CitadelsGame.pdb
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\bin\CitadelsGame.exe
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\bin\CitadelsGame.pdb
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\bin\CitadelsSystem.dll
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\bin\log4net.dll
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\bin\CitadelsSystem.pdb
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\CitadelsGame.csprojResolveAssemblyReference.cache
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\BusyAnimationStyle.baml
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\ShowCardWindow.baml
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\PlayerWindow\ActionWindow.baml
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\PlayerWindow\ChooseWindow.baml
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\PlayerWindow\CardWindow.baml
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\PlayerWindow\CharacterWindow.baml
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\PlayerWindow\TargetWindow.baml
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\PlayerWindow\YesOrNoWindow.baml
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\MainWindow.baml
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\PlayerArea.baml
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\Resources.baml
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\ResultWindow.baml
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\ShowMessageWindow.baml
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\StartWindow.baml
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\ToolTipWindow.baml
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\App.baml
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\ShowCardWindow.g.cs
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\PlayerWindow\ActionWindow.g.cs
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\PlayerWindow\ChooseWindow.g.cs
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\PlayerWindow\CardWindow.g.cs
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\PlayerWindow\CharacterWindow.g.cs
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\PlayerWindow\TargetWindow.g.cs
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\PlayerWindow\YesOrNoWindow.g.cs
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\MainWindow.g.cs
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\PlayerArea.g.cs
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\ResultWindow.g.cs
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\ShowMessageWindow.g.cs
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\StartWindow.g.cs
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\ToolTipWindow.g.cs
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\App.g.cs
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\CitadelsGame_MarkupCompile.cache
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\CitadelsGame.g.resources
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\CitadelsGame.AboutBox.resources
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\CitadelsGame.Properties.Resources.resources
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\obj\Release\CitadelsGame.csproj.GenerateResource.Cache
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\bin\CitadelsGame.exe.config
+E:\Working\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\bin\irrKlang.NET4.dll

@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5325E708-F65B-47BE-8E2D-0722B504C006}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CitadelsSystem</RootNamespace>
+    <AssemblyName>CitadelsSystem</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="irrKlang.NET4">
+      <HintPath>..\Import\irrKlang.NET4.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AssemblyInfo.cs" />
+    <Compile Include="Card\AbstractCard.cs" />
+    <Compile Include="Card\PurpleCard.cs" />
+    <Compile Include="Card\PurpleCardAction.cs" />
+    <Compile Include="Card\PurpleCardFactory.cs" />
+    <Compile Include="Card\SimpleCard.cs" />
+    <Compile Include="Card\SimpleCardFactory.cs" />
+    <Compile Include="Character\Character.cs" />
+    <Compile Include="Character\CharacterSpecialFunction.cs" />
+    <Compile Include="Character\CharacterFactory.cs" />
+    <Compile Include="Interface\IChooseAction.cs" />
+    <Compile Include="Interface\IChooseCard.cs" />
+    <Compile Include="Interface\IChooseCharacter.cs" />
+    <Compile Include="Interface\IChooseBuilding.cs" />
+    <Compile Include="Interface\IChooseYesOrNo.cs" />
+    <Compile Include="Interface\IChooseTarget.cs" />
+    <Compile Include="Players\AiPlayer.cs" />
+    <Compile Include="Players\AbstractPlayer.cs" />
+    <Compile Include="GameSystem.cs" />
+    <Compile Include="Players\RealPlayer.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\CitadelsEnum.cs" />
+    <Compile Include="Utils\ObfuscationAttributes.cs" />
+    <Compile Include="Utils\ObfuscationSetting.cs" />
+    <Compile Include="Utils\ResourceHelper.cs" />
+    <Compile Include="Utils\VoiceHelper.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resource\Data\CharExt.csv" />
+    <None Include="Resource\Data\CharStd.csv" />
+    <None Include="Resource\Data\PurpleCard.csv" />
+    <None Include="Resource\Data\SimpleCard.csv" />
+    <None Include="Resource\Data\Words.csv" />
+    <None Include="Resource\Pics\Building\PurpleCard\p01.jpg" />
+    <None Include="Resource\Pics\Building\PurpleCard\p02.jpg" />
+    <None Include="Resource\Pics\Building\PurpleCard\p03.jpg" />
+    <None Include="Resource\Pics\Building\PurpleCard\p04.jpg" />
+    <None Include="Resource\Pics\Building\PurpleCard\p05.jpg" />
+    <None Include="Resource\Pics\Building\PurpleCard\p06.jpg" />
+    <None Include="Resource\Pics\Building\PurpleCard\p07.jpg" />
+    <None Include="Resource\Pics\Building\PurpleCard\p08.jpg" />
+    <None Include="Resource\Pics\Building\PurpleCard\p09.jpg" />
+    <None Include="Resource\Pics\Building\PurpleCard\p10.jpg" />
+    <None Include="Resource\Pics\Building\PurpleCard\p11.jpg" />
+    <None Include="Resource\Pics\Building\SimpleCard\s01.jpg" />
+    <None Include="Resource\Pics\Building\SimpleCard\s02.jpg" />
+    <None Include="Resource\Pics\Building\SimpleCard\s03.jpg" />
+    <None Include="Resource\Pics\Building\SimpleCard\s04.jpg" />
+    <None Include="Resource\Pics\Building\SimpleCard\s05.jpg" />
+    <None Include="Resource\Pics\Building\SimpleCard\s06.jpg" />
+    <None Include="Resource\Pics\Building\SimpleCard\s07.jpg" />
+    <None Include="Resource\Pics\Building\SimpleCard\s08.jpg" />
+    <None Include="Resource\Pics\Building\SimpleCard\s09.jpg" />
+    <None Include="Resource\Pics\Building\SimpleCard\s10.jpg" />
+    <None Include="Resource\Pics\Building\SimpleCard\s11.jpg" />
+    <None Include="Resource\Pics\Building\SimpleCard\s12.jpg" />
+    <None Include="Resource\Pics\Building\SimpleCard\s13.jpg" />
+    <None Include="Resource\Pics\Building\SimpleCard\s14.jpg" />
+    <None Include="Resource\Pics\Building\SimpleCard\s15.jpg" />
+    <None Include="Resource\Pics\Building\SimpleCard\s16.jpg" />
+    <None Include="Resource\Pics\Building\SimpleCard\s17.jpg" />
+    <Content Include="Resource\Pics\Characters\char_01.jpg" />
+    <Content Include="Resource\Pics\Characters\char_02.jpg" />
+    <Content Include="Resource\Pics\Characters\char_03.jpg" />
+    <Content Include="Resource\Pics\Characters\char_04.jpg" />
+    <Content Include="Resource\Pics\Characters\char_05.jpg" />
+    <Content Include="Resource\Pics\Characters\char_06.jpg" />
+    <Content Include="Resource\Pics\Characters\char_07.jpg" />
+    <Content Include="Resource\Pics\Characters\char_08.jpg" />
+    <Content Include="Resource\Pics\Characters\char_09.jpg" />
+    <Content Include="Resource\Pics\Characters\char_10.jpg" />
+    <Content Include="Resource\Pics\Characters\char_11.jpg" />
+    <Content Include="Resource\Pics\Characters\char_12.jpg" />
+    <Content Include="Resource\Pics\Characters\char_13.jpg" />
+    <Content Include="Resource\Pics\Characters\char_14.jpg" />
+    <Content Include="Resource\Pics\Characters\char_15.jpg" />
+    <Content Include="Resource\Pics\Characters\char_16.jpg" />
+    <Content Include="Resource\Pics\Characters\char_17.jpg" />
+    <Content Include="Resource\Pics\Characters\char_18.jpg" />
+    <Content Include="Resource\Sounds\Coins.wav" />
+    <Content Include="Resource\Sounds\Gun.wav" />
+    <Content Include="Resource\Sounds\MouseClick.wav" />
+    <Content Include="Resource\Sounds\MouseOver.wav" />
+    <None Include="Resource\Pics\Extra\HandCard.jpg" />
+    <None Include="Resource\Pics\Extra\Rainbow.jpg" />
+    <None Include="Resource\Pics\Extra\Citadels.jpg" />
+    <None Include="Resource\Pics\Extra\Coin.jpg" />
+    <None Include="Resource\Pics\Extra\Crown.jpg" />
+    <None Include="Resource\Sounds\Applaud.wav" />
+    <None Include="Resource\Sounds\Build.wav" />
+    <None Include="Resource\Sounds\Bye_Boy.wav" />
+    <None Include="Resource\Sounds\Bye_Girl.wav" />
+    <None Include="Resource\Sounds\DealCard.wav" />
+    <None Include="Resource\Sounds\desktop.ini" />
+    <None Include="Resource\Sounds\Destruction.wav" />
+    <None Include="Resource\Sounds\Ding.wav" />
+    <None Include="Resource\Sounds\Dock.wav" />
+    <None Include="Resource\Sounds\GameBegin.wav" />
+    <None Include="Resource\Sounds\HA.WAV" />
+    <None Include="Resource\Sounds\Loading_1.wav" />
+    <None Include="Resource\Sounds\Loading_2.wav" />
+    <None Include="Resource\Sounds\lookgood.wav" />
+    <None Include="Resource\Sounds\No_1.wav" />
+    <None Include="Resource\Sounds\No_2.wav" />
+    <None Include="Resource\Sounds\No_3.wav" />
+    <None Include="Resource\Sounds\Play.wav" />
+    <None Include="Resource\Sounds\Problem.wav" />
+    <None Include="Resource\Sounds\Start.wav" />
+    <None Include="Resource\Sounds\Thank.wav" />
+    <None Include="Resource\Sounds\Warning.wav" />
+    <None Include="Resource\Sounds\YA.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

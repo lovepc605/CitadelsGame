@@ -1,0 +1,11 @@
+巨龍門,6,Purple,p01,1,FALSE,ExtraPointPlusTwo,國家已經有超過1000年沒見過了。雖然建築費用是六枚金幣，遊戲結束時可以8分計算;
+魔法學校,6,Purple,p02,1,FALSE,TaxAnyColor_Gold,計算金幣稅收時，魔法學校可視為任何顏色的建築。如果你是國王、主教、商人、領主 ,稅收可以+1;
+實驗室,5,Purple,p03,1,TRUE,AbandomChange,在你的回合當中，可以從手牌中棄掉一張建築卡並換取一枚金幣。此特殊能力每回合只能使用一次;
+圖書館,6,Purple,p04,1,FALSE,DrawTwoCard,如果你在回合開始時選擇抽牌，可以保留兩張建築卡。(不需2選1);
+鬼城,2,Purple,p05,1,FALSE,ChangeBuildingColor_Silver,計算最後分數時，此卡片可當作任一個顏色的建築物。但如果在遊戲最後一個回合才建成鬼城，不能使用該能力;
+長城,6,Purple,p06,1,FALSE,ExtraDestructionPoint,『領主』拆除你的建築物要多1枚金幣;
+墓地,5,Purple,p07,1,TRUE,RegainDistructedCard,當『領主』破壞你的地區時，可以支付1枚金幣將該建物拿回至手牌中。(本身是領主時不可行使此功能);
+觀星台,5,Purple,p08,1,TRUE,DrawThreeKeepOneCard,若你選擇在回合開始時抽牌，可以抽三張選擇一張，剩餘兩張放回牌堆底部;
+大學,6,Purple,p09,1,FALSE,ExtraPointPlusTwo,從來沒人知道他的作用，遊戲結束時可當8分;
+堡壘,3,Purple,p10,1,FALSE,CantBeDestructed,堡壘不能被破壞;
+鐵匠舖,5,Purple,p11,1,TRUE,PayThreeGoldDrawTwoCard,在你的回合當中，可以支付3枚金幣，然後抽兩張建築卡。每回合只能用一次;

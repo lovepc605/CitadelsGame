@@ -1,0 +1,6 @@
+ERROR In main program (D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\MainWindow.xaml.cs:347) - UnHandledException
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at CitadelsSystem.Players.AbstractPlayer.StartNewRound(Character myCharacter) in D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsSystem\Players\AbstractPlayer.cs:line 492
+   at CitadelsSystem.GameSystem.ResetPlayers() in D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsSystem\GameSystem.cs:line 392
+   at CitadelsSystem.GameSystem.StartNewRound() in D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsSystem\GameSystem.cs:line 300
+   at CitadelsGame.MainWindow.PlayingGame() in D:\MyDocument\Code_POLO\CSharp_Test\CitadelsGame 1.3.2\CitadelsGame\MainWindow.xaml.cs:line 341
